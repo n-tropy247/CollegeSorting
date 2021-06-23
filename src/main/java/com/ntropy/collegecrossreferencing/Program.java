@@ -79,6 +79,36 @@ public class Program {
             String format = "\n%-" + 5 + "s | %-" + maxSchoolLen
                     + "s | %s | %s";
 
+            //sort
+            d25.sort((School[] arr1, School[] arr2) -> {
+                double avg1 = distance(arr1[0], arr1[1]) + distance(arr1[1],
+                        arr1[2]) + distance(arr1[0], arr1[2]) / 3.;
+                double avg2 = distance(arr2[0], arr2[1]) + distance(arr2[1],
+                        arr2[2]) + distance(arr2[0], arr2[2]) / 3.;
+                return Double.compare(avg1, avg2);
+            });
+            d50.sort((School[] arr1, School[] arr2) -> {
+                double avg1 = distance(arr1[0], arr1[1]) + distance(arr1[1],
+                        arr1[2]) + distance(arr1[0], arr1[2]) / 3.;
+                double avg2 = distance(arr2[0], arr2[1]) + distance(arr2[1],
+                        arr2[2]) + distance(arr2[0], arr2[2]) / 3.;
+                return Double.compare(avg1, avg2);
+            });
+            d75.sort((School[] arr1, School[] arr2) -> {
+                double avg1 = distance(arr1[0], arr1[1]) + distance(arr1[1],
+                        arr1[2]) + distance(arr1[0], arr1[2]) / 3.;
+                double avg2 = distance(arr2[0], arr2[1]) + distance(arr2[1],
+                        arr2[2]) + distance(arr2[0], arr2[2]) / 3.;
+                return Double.compare(avg1, avg2);
+            });
+            d100.sort((School[] arr1, School[] arr2) -> {
+                double avg1 = distance(arr1[0], arr1[1]) + distance(arr1[1],
+                        arr1[2]) + distance(arr1[0], arr1[2]) / 3.;
+                double avg2 = distance(arr2[0], arr2[1]) + distance(arr2[1],
+                        arr2[2]) + distance(arr2[0], arr2[2]) / 3.;
+                return Double.compare(avg1, avg2);
+            });
+
             //output to file formatted data
             PrintWriter fileOut = new PrintWriter(new FileWriter(
                     "output/grouping.txt"));

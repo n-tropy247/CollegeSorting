@@ -1,138 +1,138 @@
 Within 25 miles (27):
-Med   | Alpert Medical School at Brown University                       | Providence | RI
-Pharm | University of Rhode Island                                      | Kingston | RI
-MFA   | Brown University                                                | Providence | RI
-Average Distance: 16.3608 miles
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 1.3883 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 1.3883 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 1.3883 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 1.3883 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 1.3883 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 1.3883 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 1.3883 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 1.3883 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 1.3883 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 2.2686 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 2.2686 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 2.2686 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 1.8222 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 1.8222 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 1.8222 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 1.8222 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 1.8222 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 1.8222 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 1.8222 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 1.8222 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 1.8222 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 2.5064 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 2.5064 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 2.5064 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | University of New England                                       | Portland | ME
+MFA   | University of Southern Maine                                    | Portland | ME
+Average Distance: 11.5764 miles
 
 Med   | Alpert Medical School at Brown University                       | Providence | RI
 Pharm | University of Rhode Island                                      | Kingston | RI
 MFA   | Salve Regina University                                         | Newport | RI
 Average Distance: 20.2042 miles
 
-Med   | Boston University School of Medicine                            | Boston | MA
-Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
-MFA   | Boston University                                               | Boston | MA
-Average Distance: 1.8222 miles
-
-Med   | Boston University School of Medicine                            | Boston | MA
-Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
-MFA   | Emerson College                                                 | Boston | MA
-Average Distance: 1.8222 miles
-
-Med   | Boston University School of Medicine                            | Boston | MA
-Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
-MFA   | Lesley University                                               | Cambridge | MA
-Average Distance: 2.5064 miles
-
-Med   | Boston University School of Medicine                            | Boston | MA
-Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
-MFA   | University of Massachusetts Boston                              | Boston | MA
-Average Distance: 1.8222 miles
-
-Med   | Boston University School of Medicine                            | Boston | MA
-Pharm | Northeastern University                                         | Boston | MA
-MFA   | Boston University                                               | Boston | MA
-Average Distance: 1.3883 miles
-
-Med   | Boston University School of Medicine                            | Boston | MA
-Pharm | Northeastern University                                         | Boston | MA
-MFA   | Emerson College                                                 | Boston | MA
-Average Distance: 1.3883 miles
-
-Med   | Boston University School of Medicine                            | Boston | MA
-Pharm | Northeastern University                                         | Boston | MA
-MFA   | Lesley University                                               | Cambridge | MA
-Average Distance: 2.2686 miles
-
-Med   | Boston University School of Medicine                            | Boston | MA
-Pharm | Northeastern University                                         | Boston | MA
-MFA   | University of Massachusetts Boston                              | Boston | MA
-Average Distance: 1.3883 miles
-
-Med   | Harvard Medical School                                          | Boston | MA
-Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
-MFA   | Boston University                                               | Boston | MA
-Average Distance: 1.8222 miles
-
-Med   | Harvard Medical School                                          | Boston | MA
-Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
-MFA   | Emerson College                                                 | Boston | MA
-Average Distance: 1.8222 miles
-
-Med   | Harvard Medical School                                          | Boston | MA
-Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
-MFA   | Lesley University                                               | Cambridge | MA
-Average Distance: 2.5064 miles
-
-Med   | Harvard Medical School                                          | Boston | MA
-Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
-MFA   | University of Massachusetts Boston                              | Boston | MA
-Average Distance: 1.8222 miles
-
-Med   | Harvard Medical School                                          | Boston | MA
-Pharm | Northeastern University                                         | Boston | MA
-MFA   | Boston University                                               | Boston | MA
-Average Distance: 1.3883 miles
-
-Med   | Harvard Medical School                                          | Boston | MA
-Pharm | Northeastern University                                         | Boston | MA
-MFA   | Emerson College                                                 | Boston | MA
-Average Distance: 1.3883 miles
-
-Med   | Harvard Medical School                                          | Boston | MA
-Pharm | Northeastern University                                         | Boston | MA
-MFA   | Lesley University                                               | Cambridge | MA
-Average Distance: 2.2686 miles
-
-Med   | Harvard Medical School                                          | Boston | MA
-Pharm | Northeastern University                                         | Boston | MA
-MFA   | University of Massachusetts Boston                              | Boston | MA
-Average Distance: 1.3883 miles
-
-Med   | Tufts University School of Medicine                             | Boston | MA
-Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
-MFA   | Boston University                                               | Boston | MA
-Average Distance: 1.8222 miles
-
-Med   | Tufts University School of Medicine                             | Boston | MA
-Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
-MFA   | Emerson College                                                 | Boston | MA
-Average Distance: 1.8222 miles
-
-Med   | Tufts University School of Medicine                             | Boston | MA
-Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
-MFA   | Lesley University                                               | Cambridge | MA
-Average Distance: 2.5064 miles
-
-Med   | Tufts University School of Medicine                             | Boston | MA
-Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
-MFA   | University of Massachusetts Boston                              | Boston | MA
-Average Distance: 1.8222 miles
-
-Med   | Tufts University School of Medicine                             | Boston | MA
-Pharm | Northeastern University                                         | Boston | MA
-MFA   | Boston University                                               | Boston | MA
-Average Distance: 1.3883 miles
-
-Med   | Tufts University School of Medicine                             | Boston | MA
-Pharm | Northeastern University                                         | Boston | MA
-MFA   | Emerson College                                                 | Boston | MA
-Average Distance: 1.3883 miles
-
-Med   | Tufts University School of Medicine                             | Boston | MA
-Pharm | Northeastern University                                         | Boston | MA
-MFA   | Lesley University                                               | Cambridge | MA
-Average Distance: 2.2686 miles
-
-Med   | Tufts University School of Medicine                             | Boston | MA
-Pharm | Northeastern University                                         | Boston | MA
-MFA   | University of Massachusetts Boston                              | Boston | MA
-Average Distance: 1.3883 miles
-
-Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
-Pharm | University of New England                                       | Portland | ME
-MFA   | University of Southern Maine                                    | Portland | ME
-Average Distance: 11.5764 miles
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 16.3608 miles
 
 Within 50 miles (92):
 Med   | Alpert Medical School at Brown University                       | Providence | RI
