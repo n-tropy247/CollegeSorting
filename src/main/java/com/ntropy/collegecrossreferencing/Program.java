@@ -164,6 +164,7 @@ public class Program {
                         + distance(arr[0], arr[2])) / 3.);
                 fileOut.printf("\n");
             });
+            fileOut.close();
         }
         catch (IOException e) {
             System.err.println(e);
@@ -185,27 +186,24 @@ public class Program {
                     case "Pharmacy":
                         pharm.add(new School("Pharm", row[1],
                                 new Coord(Double.parseDouble(row[2]),
-                                        Double.parseDouble(row[3])), row[4],
-                                row[5]));
+                                        Double.parseDouble(row[3])), row[5],
+                                row[4]));
                         break;
                     case "Medical":
                         med.add(new School("Med", row[1],
                                 new Coord(Double.parseDouble(row[2]),
-                                        Double.parseDouble(row[3])), row[4],
-                                row[5]));
+                                        Double.parseDouble(row[3])), row[5],
+                                row[4]));
                         break;
                     case "MFA":
                         mfa.add(new School("MFA", row[1],
                                 new Coord(Double.parseDouble(row[2]),
-                                        Double.parseDouble(row[3])), row[4],
-                                row[5]));
+                                        Double.parseDouble(row[3])), row[5],
+                                row[4]));
                         break;
                 }
                 row = csv.readNext();
             }
-            pharm.sort(School.getSchoolComparator());
-            med.sort(School.getSchoolComparator());
-            mfa.sort(School.getSchoolComparator());
         }
         catch (IOException | CsvValidationException e) {
             System.err.println(e);

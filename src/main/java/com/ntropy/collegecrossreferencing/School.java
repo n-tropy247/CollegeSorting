@@ -60,24 +60,4 @@ public class School {
     public Coord getCoords() {
         return COORDS;
     }
-
-    @Override
-    public String toString() {
-        return "Name: " + NAME + " | Coords: " + COORDS;
-    }
-
-    /**
-     * Compare two schools, sorts by name.
-     */
-    private final static Comparator<School> schoolComparator
-            = (School s1, School s2) -> {
-                return s1.getName().toUpperCase().compareTo(s2.getName().toUpperCase());
-            };
-
-    /**
-     * @return the schoolComparator
-     */
-    public static Comparator<School> getSchoolComparator() {
-        return schoolComparator;
-    }
 }
