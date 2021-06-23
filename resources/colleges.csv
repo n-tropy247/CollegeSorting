@@ -1,0 +1,42 @@
+Profession,School,Lat,Long,City,State
+Pharmacy,St Joseph University,41.7264595,-72.7191391,Hartford,CT
+Pharmacy,University of Connecticut,41.807222,-72.2525,Storrs,CT
+Pharmacy,Husson University,44.8011821,-68.7778138,Bangor,ME
+Pharmacy,University of New England,43.458333,-70.3875,Portland,ME
+Pharmacy,Massachusetts College of Pharmacy and Health Sciences Boston,42.336917,-71.101444,Boston,MA
+Pharmacy,Massachusetts College of Pharmacy and Health Sciences Worcester,42.26268005,-71.80249023,Worcester,MA
+Pharmacy,Northeastern University,42.34,-71.088333,Boston,MA
+Pharmacy,Western New England University,42.1155,-72.5197,Springfield,MA
+Pharmacy,University of Rhode Island,41.4840267,-71.5606624,Kingston,RI
+Pharmacy,Albany College of Pharmacy and Health Sciences,44.541944,-73.196667,Colchester,VT
+Medical,Quinnipiac University,41.381667,-72.858333,North Haven,CT
+Medical,University of Connecticut Medical School,41.727778,-72.840278,Farmington,CT
+Medical,Yale School of Medecine,41.31,-72.923611,New Haven,CT
+Medical,University of New England College of Osteopathic Medicine,43.474167,-70.446111,Biddeford,ME
+Medical,Boston University School of Medicine,42.358056,-71.063611,Boston,MA
+Medical,Harvard Medical School,42.358056,-71.063611,Boston,MA
+Medical,Tufts University School of Medicine,42.358056,-71.063611,Boston,MA
+Medical,University of Massachusetts Medical School,42.26268005,-71.80249023,Worcester,MA
+Medical,Dartmouth College Geisel School of Medicine,43.702222,-72.289444,Hanover,NH
+Medical,Alpert Medical School at Brown University,41.823611,-71.422222,Providence,RI
+Medical,University of Vermont College of Medicine,44.475833,-73.211944,Burlington,VT
+MFA,Albertus Magnus College,41.2984343,-72.9310234,New Haven,CT
+MFA,Fairfield University,41.1412078,-73.2637258,Fairfield,CT
+MFA,Southern Connecticut State University,41.2984343,-72.9310234,New Haven,CT
+MFA,Western Connecticut State University,41.39508,-73.4752906,Danbury,CT
+MFA,University of Southern Maine,43.6610277,-70.2548596,Portland,ME
+MFA,Boston University  ,42.3602534,-71.0582912,Boston,MA
+MFA,Emerson College,42.3602534,-71.0582912,Boston,MA
+MFA,Lesley University,42.3750997,-71.1056157,Cambridge,MA
+MFA,University of Massachusetts Amherst,42.3685658,-72.505714,Amherst,MA
+MFA,University of Massachusetts Boston,42.3602534,-71.0582912,Boston,MA
+MFA,Western New England University,42.1155,-72.5197,Springfield,MA
+MFA,Southern New Hampshire University Whitefield,44.3730577,-71.6118577,Whitefield,NH
+MFA,Southern New Hampshire University Manchester,42.9956397,-71.4547891,Manchester,NH
+MFA,New England College,43.179645,-71.822433,Henniker,NH
+MFA,University of New Hampshire,43.134564,-70.927048,Durham,NH
+MFA,Brown University,41.823611,-71.422222,Providence,RI
+MFA,Salve Regina University,41.5524614,-71.2703783,Newport,RI
+MFA,Bennington College,42.8783183,-73.1971692,Bennington,VT
+MFA,Goddard College,44.2781151,-72.4264926,Plainfield,VT
+MFA,Vermont College of Fine Arts,44.2602164,-72.575114,Montpelier,VT

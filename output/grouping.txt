@@ -1,0 +1,2761 @@
+Within 25 miles (27):
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 16.3608 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 20.2042 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 1.8222 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 1.8222 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 2.5064 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 1.8222 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 1.3883 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 1.3883 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 2.2686 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 1.3883 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 1.8222 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 1.8222 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 2.5064 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 1.8222 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 1.3883 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 1.3883 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 2.2686 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 1.3883 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 1.8222 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 1.8222 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 2.5064 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 1.8222 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 1.3883 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 1.3883 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 2.2686 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 1.3883 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | University of New England                                       | Portland | ME
+MFA   | University of Southern Maine                                    | Portland | ME
+Average Distance: 11.5764 miles
+
+Within 50 miles (92):
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 27.7939 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 26.0782 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 27.7939 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 27.7354 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 27.7939 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 38.7539 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 24.0602 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 38.7539 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 37.9970 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 38.7539 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 27.7356 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 26.3980 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 27.7356 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 27.8732 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 27.7356 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 28.5295 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 27.6050 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 33.2436 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 25.7653 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 38.5701 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 25.7653 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 25.7512 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 25.7653 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 27.5491 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 33.0448 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 27.6050 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 33.2436 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 25.7653 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 38.5701 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 25.7653 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 25.7512 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 25.7653 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 27.5491 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 33.0448 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 21.1130 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Fairfield University                                            | Fairfield | CT
+Average Distance: 33.6895 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 21.1130 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Western Connecticut State University                            | Danbury | CT
+Average Distance: 34.0808 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 33.1820 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 33.1820 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 27.6050 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 33.2436 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 25.7653 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 38.5701 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 25.7653 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 25.7512 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 25.7653 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 27.5491 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 33.0448 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 22.6199 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Fairfield University                                            | Fairfield | CT
+Average Distance: 33.8974 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 22.6199 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 33.1619 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Western Connecticut State University                            | Danbury | CT
+Average Distance: 30.5600 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 22.1689 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 36.8484 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 36.8484 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 39.7456 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 29.2088 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 32.1641 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 20.9802 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 25.8610 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 37.1398 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 25.8610 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 25.1067 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 25.8610 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 25.7594 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 24.0602 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 25.7594 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 24.3067 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 24.4575 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 25.7594 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 25.4134 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 25.8739 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 37.5307 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 25.8739 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 25.3157 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 25.8739 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 39.3134 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 38.8885 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 34.1769 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 30.7721 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 25.4134 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | University of New England                                       | Portland | ME
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 24.0122 miles
+
+Med   | University of Vermont College of Medicine                       | Burlington | VT
+Pharm | Albany College of Pharmacy and Health Sciences                  | Colchester | VT
+MFA   | Goddard College                                                 | Plainfield | VT
+Average Distance: 29.3205 miles
+
+Med   | University of Vermont College of Medicine                       | Burlington | VT
+Pharm | Albany College of Pharmacy and Health Sciences                  | Colchester | VT
+MFA   | Vermont College of Fine Arts                                    | Montpelier | VT
+Average Distance: 25.2708 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 21.0400 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Fairfield University                                            | Fairfield | CT
+Average Distance: 33.7315 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 21.0400 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Western Connecticut State University                            | Danbury | CT
+Average Distance: 35.0771 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 33.1452 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 33.1452 miles
+
+Within 75 miles (183):
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 38.1195 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 59.3462 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 57.7423 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 37.5415 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 46.6405 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 44.7070 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 38.3862 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 59.7266 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 58.1351 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 44.8004 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 60.0227 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 51.9655 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 52.1824 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 52.1824 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 51.6554 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 38.9312 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 50.2876 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 52.1824 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 42.6865 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 43.9768 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 43.9768 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 43.9599 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 43.9768 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 50.1318 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 39.9403 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 58.6369 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 48.1883 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 39.9403 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 46.6151 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 38.0147 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 49.2888 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 37.4669 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 56.7893 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 50.4198 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 46.7895 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 49.5663 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 55.7941 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 46.4581 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 37.9058 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 49.2935 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 37.1470 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 48.1473 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 51.9928 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 48.1473 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 48.3629 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 60.7630 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 62.1668 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 48.1473 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 43.9262 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 43.8087 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 43.9262 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 44.6520 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 46.0205 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 43.9262 miles
+
+Med   | Dartmouth College Geisel School of Medicine                     | Hanover | NH
+Pharm | Albany College of Pharmacy and Health Sciences                  | Colchester | VT
+MFA   | Goddard College                                                 | Plainfield | VT
+Average Distance: 52.0127 miles
+
+Med   | Dartmouth College Geisel School of Medicine                     | Hanover | NH
+Pharm | Albany College of Pharmacy and Health Sciences                  | Colchester | VT
+MFA   | Vermont College of Fine Arts                                    | Montpelier | VT
+Average Distance: 50.3102 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 46.6151 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 38.0147 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 49.2888 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 37.4669 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 56.7893 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 50.4198 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 46.7895 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 49.5663 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 55.7941 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 46.4581 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 37.9058 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 49.2935 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 37.1470 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 48.1473 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 51.9928 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 48.1473 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 48.3629 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 60.7630 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 62.1668 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 48.1473 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 43.9262 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 43.8087 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 43.9262 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 44.6520 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 46.0205 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 43.9262 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 47.0742 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 35.7799 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Fairfield University                                            | Fairfield | CT
+Average Distance: 46.5154 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 51.4986 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Western Connecticut State University                            | Danbury | CT
+Average Distance: 48.1073 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 40.6603 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 48.9104 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 48.9104 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 62.4092 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 40.2926 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 40.2926 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 47.2545 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Western Connecticut State University                            | Danbury | CT
+Average Distance: 51.9105 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 35.7693 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 46.6151 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 38.0147 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 49.2888 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 37.4669 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 56.7893 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 50.4198 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 46.7895 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 49.5663 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 55.7941 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 46.4581 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 37.9058 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 49.2935 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 37.1470 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 48.1473 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 51.9928 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 48.1473 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 48.3629 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 60.7630 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 62.1668 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 48.1473 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 43.9262 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 43.8087 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 43.9262 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 44.6520 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 46.0205 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 43.9262 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 58.1289 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 49.6955 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 44.8262 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 48.9532 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 49.0012 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Fairfield University                                            | Fairfield | CT
+Average Distance: 48.8828 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Western Connecticut State University                            | Danbury | CT
+Average Distance: 46.7460 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 56.8433 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 55.4026 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 56.8433 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 55.2242 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 40.6215 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 54.9297 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 40.6215 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Western Connecticut State University                            | Danbury | CT
+Average Distance: 47.2116 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 56.1373 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 49.1167 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 46.2780 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 48.2248 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 55.6569 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 49.5103 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 42.2668 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 37.4771 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 35.7793 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 49.9394 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 56.4271 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 49.4546 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 46.5261 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 48.6764 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 55.7838 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 49.9744 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 54.4088 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 47.4482 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 42.2804 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 49.9718 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 49.9718 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 48.7490 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 49.6508 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 49.9718 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 53.2490 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 38.6275 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 53.2490 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 52.5363 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 42.4065 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 53.2490 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 53.1049 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 44.7070 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 49.7133 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | University of New England                                       | Portland | ME
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 49.9948 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | University of New England                                       | Portland | ME
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 42.1068 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 39.6399 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Fairfield University                                            | Fairfield | CT
+Average Distance: 46.5936 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Western Connecticut State University                            | Danbury | CT
+Average Distance: 49.1398 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 44.5565 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 48.2685 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 48.2685 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 65.7002 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 40.2300 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 40.2300 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Western Connecticut State University                            | Danbury | CT
+Average Distance: 52.9172 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 39.6396 miles
+
+Within 100 miles (257):
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 67.9521 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 56.3710 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 63.0157 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 70.2147 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 65.1432 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 70.2147 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 56.9338 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 68.3598 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 68.1708 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 56.5479 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 63.0714 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 61.6120 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 68.1992 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 68.1992 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 67.6091 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 54.4431 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 61.6120 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 68.1992 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 59.5216 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 78.7040 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 59.5216 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 71.8442 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 60.9464 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 60.9464 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 56.6005 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 68.7770 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 59.3769 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 59.3769 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 79.1713 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 51.8118 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 68.7770 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 74.1523 miles
+
+Med   | Alpert Medical School at Brown University                       | Providence | RI
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 59.3769 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 51.0042 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 50.9520 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 51.0214 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 63.9100 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 68.0096 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 63.9100 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 64.0626 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 76.0208 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 71.6478 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 63.9100 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 66.9099 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 79.3035 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 70.6532 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 57.8850 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 55.6297 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 55.6297 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 56.3687 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 75.5782 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 64.7752 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 55.6297 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 57.5754 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | University of Southern Maine                                    | Portland | ME
+Average Distance: 65.9474 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 72.4641 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 69.3148 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 51.1299 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 59.1917 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 51.1299 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 51.1326 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 75.5590 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 69.4317 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 68.7495 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 55.8556 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 51.1299 miles
+
+Med   | Boston University School of Medicine                            | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 50.9269 miles
+
+Med   | Dartmouth College Geisel School of Medicine                     | Hanover | NH
+Pharm | Albany College of Pharmacy and Health Sciences                  | Colchester | VT
+MFA   | Southern New Hampshire University Whitefield                    | Whitefield | NH
+Average Distance: 69.9480 miles
+
+Med   | Dartmouth College Geisel School of Medicine                     | Hanover | NH
+Pharm | University of New England                                       | Portland | ME
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 71.4978 miles
+
+Med   | Dartmouth College Geisel School of Medicine                     | Hanover | NH
+Pharm | University of New England                                       | Portland | ME
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 74.5602 miles
+
+Med   | Dartmouth College Geisel School of Medicine                     | Hanover | NH
+Pharm | University of New England                                       | Portland | ME
+MFA   | Southern New Hampshire University Whitefield                    | Whitefield | NH
+Average Distance: 80.6278 miles
+
+Med   | Dartmouth College Geisel School of Medicine                     | Hanover | NH
+Pharm | University of New England                                       | Portland | ME
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 70.2602 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 51.0042 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 50.9520 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 51.0214 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 63.9100 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 68.0096 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 63.9100 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 64.0626 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 76.0208 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 71.6478 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 63.9100 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 66.9099 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 79.3035 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 70.6532 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 57.8850 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 55.6297 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 55.6297 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 56.3687 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 75.5782 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 64.7752 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 55.6297 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 57.5754 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | University of Southern Maine                                    | Portland | ME
+Average Distance: 65.9474 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 72.4641 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 69.3148 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 51.1299 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 59.1917 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 51.1299 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 51.1326 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 75.5590 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 69.4317 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 68.7495 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 55.8556 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 51.1299 miles
+
+Med   | Harvard Medical School                                          | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 50.9269 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 59.0055 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 66.0098 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 73.6595 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 59.0055 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 62.9819 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 57.8112 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 57.4601 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 61.2714 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 55.3486 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 59.9189 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 57.4836 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Fairfield University                                            | Fairfield | CT
+Average Distance: 62.0064 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 55.4955 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 72.1150 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Western Connecticut State University                            | Danbury | CT
+Average Distance: 66.3525 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 64.6146 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Fairfield University                                            | Fairfield | CT
+Average Distance: 52.6817 miles
+
+Med   | Quinnipiac University                                           | North Haven | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 70.6547 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 51.0042 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 50.9520 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 51.0214 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 63.9100 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 68.0096 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 63.9100 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 64.0626 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 76.0208 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 71.6478 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 63.9100 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 66.9099 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 79.3035 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 70.6532 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 57.8850 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 55.6297 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 55.6297 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 56.3687 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 75.5782 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 64.7752 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 55.6297 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 57.5754 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of New England                                       | Portland | ME
+MFA   | University of Southern Maine                                    | Portland | ME
+Average Distance: 65.9474 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 72.4641 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 69.3148 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 51.1299 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 59.1917 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 51.1299 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 51.1326 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 75.5590 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 69.4317 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 68.7495 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 55.8556 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 51.1299 miles
+
+Med   | Tufts University School of Medicine                             | Boston | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 50.9269 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 70.4144 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 67.0075 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 78.5495 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 72.6687 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 68.1290 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 61.1385 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Bennington College                                              | Bennington | VT
+Average Distance: 76.4256 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 67.0016 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 67.7040 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 61.1385 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 70.8069 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 67.2181 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 78.8890 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 73.1218 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 68.5946 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Bennington College                                              | Bennington | VT
+Average Distance: 57.0513 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 66.6979 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 54.6898 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Bennington College                                              | Bennington | VT
+Average Distance: 66.9323 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 67.0630 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 55.4967 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Fairfield University                                            | Fairfield | CT
+Average Distance: 68.6403 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 77.9376 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 55.3399 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 64.6286 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Western Connecticut State University                            | Danbury | CT
+Average Distance: 69.2576 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Bennington College                                              | Bennington | VT
+Average Distance: 58.7038 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Fairfield University                                            | Fairfield | CT
+Average Distance: 51.7115 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 68.5622 miles
+
+Med   | University of Connecticut Medical School                        | Farmington | CT
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 62.8951 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 58.9842 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Bennington College                                              | Bennington | VT
+Average Distance: 55.1886 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 58.9842 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 59.9900 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Bennington College                                              | Bennington | VT
+Average Distance: 75.3386 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 64.8132 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 64.8132 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 63.5273 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 63.9872 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 59.9900 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 64.8132 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 59.0750 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Bennington College                                              | Bennington | VT
+Average Distance: 70.0762 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 66.6114 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 59.0750 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 61.4735 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 71.9825 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 71.9825 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 56.6841 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 62.3132 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Bennington College                                              | Bennington | VT
+Average Distance: 61.3128 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 51.1491 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 51.1491 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 61.0616 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 56.5142 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 62.3132 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 57.7644 miles
+
+Med   | University of Massachusetts Medical School                      | Worcester | MA
+Pharm | Western New England University                                  | Springfield | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 51.1491 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 57.0262 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 57.0262 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 56.9922 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 75.4280 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 64.9715 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 57.0262 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | Massachusetts College of Pharmacy and Health Sciences Boston    | Boston | MA
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 58.3000 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 56.6570 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 56.6570 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 56.8191 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | New England College                                             | Henniker | NH
+Average Distance: 75.3357 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | Southern New Hampshire University Manchester                    | Manchester | NH
+Average Distance: 64.8375 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 56.6570 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | Northeastern University                                         | Boston | MA
+MFA   | University of New Hampshire                                     | Durham | NH
+Average Distance: 58.0448 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | University of New England                                       | Portland | ME
+MFA   | Boston University                                               | Boston | MA
+Average Distance: 56.4374 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | University of New England                                       | Portland | ME
+MFA   | Emerson College                                                 | Boston | MA
+Average Distance: 56.4374 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | University of New England                                       | Portland | ME
+MFA   | Lesley University                                               | Cambridge | MA
+Average Distance: 56.4582 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | University of New England                                       | Portland | ME
+MFA   | Southern New Hampshire University Whitefield                    | Whitefield | NH
+Average Distance: 58.6716 miles
+
+Med   | University of New England College of Osteopathic Medicine       | Biddeford | ME
+Pharm | University of New England                                       | Portland | ME
+MFA   | University of Massachusetts Boston                              | Boston | MA
+Average Distance: 56.4374 miles
+
+Med   | University of Vermont College of Medicine                       | Burlington | VT
+Pharm | Albany College of Pharmacy and Health Sciences                  | Colchester | VT
+MFA   | Southern New Hampshire University Whitefield                    | Whitefield | NH
+Average Distance: 54.3392 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Albertus Magnus College                                         | New Haven | CT
+Average Distance: 58.9944 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 69.6994 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 77.0495 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Southern Connecticut State University                           | New Haven | CT
+Average Distance: 58.9944 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 66.8622 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | Massachusetts College of Pharmacy and Health Sciences Worcester | Worcester | MA
+MFA   | Western New England University                                  | Springfield | MA
+Average Distance: 61.7331 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 61.0878 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 64.5994 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | St Joseph University                                            | Hartford | CT
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 50.8926 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 59.0125 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | Salve Regina University                                         | Newport | RI
+Average Distance: 63.2830 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | University of Connecticut                                       | Storrs | CT
+MFA   | University of Massachusetts Amherst                             | Amherst | MA
+Average Distance: 55.3531 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | University of Rhode Island                                      | Kingston | RI
+MFA   | Brown University                                                | Providence | RI
+Average Distance: 60.5423 miles
+
+Med   | Yale School of Medecine                                         | New Haven | CT
+Pharm | University of Rh
